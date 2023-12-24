@@ -1,0 +1,11 @@
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\bin\Debug\MyFriend.exe.config
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\bin\Debug\MyFriend.exe
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\bin\Debug\MyFriend.pdb
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.csproj.SuggestedBindingRedirects.cache
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.Form1.resources
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.Properties.Resources.resources
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.csproj.GenerateResource.cache
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.csproj.CoreCompileInputs.cache
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.exe
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.pdb
+C:\Users\BIT\OneDrive\Desktop\비트교육센터\Visual Studio\WinForm\MyFriend\MyFriend\obj\Debug\MyFriend.csproj.AssemblyReference.cache
